@@ -1,2 +1,1 @@
-# temperature_and_humidity
-temperature_and_humidity
+这是一个接收嵌入式s25530模块配套的安卓手机接收端。
